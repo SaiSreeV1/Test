@@ -6,4 +6,8 @@ mylogs.log
 *.log
 # ignore all files with .log extension ex:*.csv/*.txt...
 directory/
+<<<<<<< HEAD
 # ignored folder represents folder with
+=======
+# ignored folder represents folder with /
+>>>>>>> feature1
